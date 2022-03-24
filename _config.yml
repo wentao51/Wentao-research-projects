@@ -101,11 +101,11 @@ analytics:
 
 # Site Author
 author:
-  name: "hijiangtao"
-  avatar: "images/bio-photo.jpg"
-  bio: "VIS and FE."
-  location: "Beijing, China"
-  email: "hijiangtao@gmail.com"
+  name: "Wentao Zeng"
+  avatar: "images/wentao.jpeg"
+  bio: "University of California, Berkeley"
+  location: "Berkeley, United States"
+  email: "wentao_zeng@berkeley.edu"
   uri:
   home: # null (default), "absolute or relative url to link to author home"
   bitbucket:
