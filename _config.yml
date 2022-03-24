@@ -23,7 +23,7 @@ description: "All I'm saying is inside, I had the element of surprise."
 url: "https://hijiangtao.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "hijiangtao/hijiangtao.github.io"
-teaser: # "/images/wentao.jpg"
+teaser: # "/images/wentao.jpeg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
