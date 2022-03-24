@@ -16,14 +16,14 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Joe's Blog"
+title: "Wentao's Research"
 title_separator: "-"
-name: "hijiangtao"
+name: "Wentao Zeng"
 description: "All I'm saying is inside, I had the element of surprise."
 url: "https://hijiangtao.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "hijiangtao/hijiangtao.github.io"
-teaser: # "/images/bio-photo.jpg"
+teaser: # "/images/wentao.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
