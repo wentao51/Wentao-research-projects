@@ -20,7 +20,7 @@ title: "Wentao's Research"
 title_separator: "-"
 name: "Wentao Zeng"
 description: "All I'm saying is inside, I had the element of surprise."
-url: "https://wentao51.github.io/Wentao-research-projects" # the base hostname & protocol for your site e.g.
+url: "https://wentao51.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "wentao51/Wentao-research-projects"
 teaser: # "/images/wentao.jpeg"
